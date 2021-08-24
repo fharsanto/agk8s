@@ -1,0 +1,4 @@
+replica:
+  ## @param replica.replicaCount Number of Redis&trade; replicas to deploy
+  ##
+  replicaCount: 2
